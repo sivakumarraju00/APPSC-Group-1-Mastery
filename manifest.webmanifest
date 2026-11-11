@@ -1,0 +1,17 @@
+{
+  "name": "APPSC Group-II Mastery 2.0",
+  "short_name": "APPSC Group-II",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#12345a",
+  "description": "Mobile-first bilingual APPSC Group-II screening preparation",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
